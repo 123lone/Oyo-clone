@@ -1,6 +1,7 @@
 # 🏨 OYO Clone – Hotel Booking Web App
 
 A modern, full-featured **hotel booking platform** inspired by OYO, built using **Next.js**. This platform supports dual login for hotel bookers and posters (owners), hotel image uploads via Supabase, smooth navigation, and a secure payment workflow powered by **PayPal**.
+![Screenshot 2025-06-11 122141](https://github.com/user-attachments/assets/2b50399c-edd2-433e-969d-cb3f73125c08)
 
 ---
 
@@ -34,7 +35,7 @@ A modern, full-featured **hotel booking platform** inspired by OYO, built using 
 | Payment Gateway | PayPal Developer API |
 | Deployment   | Vercel / Render      |
 
-![Image](https://github.com/user-attachments/assets/89caa91a-d1a1-41d9-a7ca-862d319b15b0)
+
 
 
 ---
