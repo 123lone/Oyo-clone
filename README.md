@@ -34,6 +34,7 @@ A modern, full-featured **hotel booking platform** inspired by OYO, built using 
 | Payment Gateway | PayPal Developer API |
 | Deployment   | Vercel / Render      |
 
-![Image](https://github.com/user-attachments/assets/566719b2-a13a-4a4f-9e23-e0741e5a1642)
+![Image](https://github.com/user-attachments/assets/89caa91a-d1a1-41d9-a7ca-862d319b15b0)
+
 
 ---
