@@ -30,9 +30,9 @@ A modern, full-featured **hotel booking platform** inspired by OYO, built using 
 <br/>
 <br/>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3e9b27cc-0b1c-46f3-8a43-dcbb19e05dc5" width="45%" height = 350px/>
+  <img src="https://github.com/user-attachments/assets/3e9b27cc-0b1c-46f3-8a43-dcbb19e05dc5" width="45%"/>
    <span style="display:inline-block width: 30px"></span>
-   <img src="https://github.com/user-attachments/assets/ee3f6b1f-193a-4c41-acf2-275e9e9662ff" width="45%" height=350px />
+  
 </div>
 <br/>
 <br/>
