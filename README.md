@@ -23,6 +23,9 @@ A modern, full-featured **hotel booking platform** inspired by OYO, built using 
   - Allows users to contact hotel owners for inquiries or special requests.
  
     ![Image](https://github.com/user-attachments/assets/3e9b27cc-0b1c-46f3-8a43-dcbb19e05dc5)
+    ![Screenshot 2025-06-11 120821](https://github.com/user-attachments/assets/7ba144ef-1967-470e-b096-d4f82d2f9c15)
+
+    
 
 ---
 
